@@ -2,12 +2,56 @@
 
 ## TL;DR / 超短版
 
+- 默认用 Uber；提前保存所有重要地址的纯文本，最好同时有英文和葡萄牙语版本。
 
+- 机场到 Barra 这类路段，重点不是车型，而是路线：尽早要求走收费快速路，不要抄近路。
+
+- 主刷卡用 Visa / Mastercard；至少准备一张备用卡。现金少量即可，以小面额为主。
+
+- 手机、护照、主卡、全部现金不要放在同一个包里；不要把“准备好了”理解成“全都带在身上”。
+
+- 提前准备好网络方案、证件副本、酒店和会场地址；离线也能打开。
+
+- 在街上少露手机，少露首饰、手表、电脑和其他一眼看起来值钱、又容易被抢走的东西。
+
+- 被抢时不要反抗，不要追；先脱身，再处理手机、银行卡和证件。
+
+- 手机被抢：先锁机，再决定要不要抹掉。
+
+- 银行卡被盗：先停卡，再查账，再保住今天和明天的支付能力。
+
+- 护照被盗：先找护照副本，再联系使领馆，并立刻重排行程预期。
+
+- 报警的主要价值通常不是找回财物，而是拿到正式书面记录，给护照、签证、保险和后续解释用。
 
 ---
 
 ## Quick Navigation / 快速导航
 
+- [1. Before You Go / 出发前]( )
+  - [1.1 Cards / 银行卡](#11-cards--银行卡)
+  - [1.2 Cash / 现金](#12-cash--现金)
+  - [1.3 Connectivity, Phone & Accounts / 网络、手机与关键账号](#13-connectivity-phone--accounts--网络手机与关键账号)
+  - [1.4 Documents & Backup / 证件与备份](#14-documents--backup--证件与备份)
+  - [1.5 Transport Plan / 交通预设](#15-transport-plan--交通预设)
+  - [1.6 Packing & Carry Strategy / 随身携带策略](#16-packing--carry-strategy--随身携带策略)
+  - [1.7 Health, Medication & Basics / 药品与基础准备](#17-health-medication--basics--药品与基础准备)
+
+- [2. Arrival / 落地后](#2-arrival--落地后)
+  - [2.1 First Hour After Landing / 落地后第一小时](#21-first-hour-after-landing--落地后第一小时)
+  - [2.2 Hotel Check-in & First Night / 入住与第一晚](#22-hotel-check-in--first-night--入住与第一晚)
+  - [2.3 First Conference Morning / 第一个参会早晨](#23-first-conference-morning--第一个参会早晨)
+
+- [3. Daily Safety / 日常安全](#3-daily-safety--日常安全)
+  - [3.1 Street Habits / 街头行为习惯](#31-street-habits--街头行为习惯)
+
+- [4. Emergency Recovery After Theft or Robbery / 被盗抢后的紧急自救](#4-emergency-recovery-after-theft-or-robbery--被盗抢后的紧急自救)
+  - [4.1 If Robbed on the Spot / 当场遭遇抢劫时](#41-if-robbed-on-the-spot--当场遭遇抢劫时)
+  - [4.2 First 10 Minutes / 事发后前 10 分钟](#42-first-10-minutes--事发后前-10-分钟)
+  - [4.3 If Your Phone Is Stolen / 如果手机被抢](#43-if-your-phone-is-stolen--如果手机被抢)
+  - [4.4 If Your Cards Are Stolen / 如果银行卡或信用卡被盗](#44-if-your-cards-are-stolen--如果银行卡或信用卡被盗)
+  - [4.5 If Your Passport Is Stolen / 如果护照被盗](#45-if-your-passport-is-stolen--如果护照被盗)
+  - [4.6 Police Report / 要不要报警](#46-police-report--要不要报警)
 
 ---
 
@@ -751,64 +795,316 @@ When you are out, the goal is to reduce visible exposure of your phone, jewelry,
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 4. Emergency Recovery After Theft or Robbery / 被盗抢后的紧急自救
-### Immediate actions / 第一时间动作
-1. Do not resist.
-2. Move to a safe indoor location.
-3. Contact hotel staff, organizer, or a trusted friend.
-4. Freeze bank cards immediately.
-5. Lock your phone and revoke important sessions.
 
-1. 不要反抗。
-2. 尽快进入安全的室内地点。
-3. 立刻联系酒店、主办方或可信朋友。
-4. 立即冻结银行卡。
-5. 锁定手机并退出重要账号登录。
+### 4.1 If Robbed on the Spot / 当场遭遇抢劫时
 
-### If your phone is stolen / 如果手机被抢
-- Mark the device as lost
-- Change your email password first
-- Then change banking, messaging, and social app passwords
-- Revoke important sessions
+#### Bottom line / 一句话结论
 
-- 将设备标记为丢失
-- 优先修改邮箱密码
-- 再修改银行、通讯和社交软件密码
-- 退出重要账号登录
+不要反抗，不要争辩，不要试图保住财物。先保人身安全，先活着离开现场，再处理手机、银行卡和证件。  
 
-### If your passport is stolen / 如果护照被盗
-- Confirm whether you still have a digital copy
-- Contact your embassy or consulate
-- Ask hotel or organizer for help with local logistics
+Do not resist, argue, or try to save your belongings. Protect yourself first, get out safely, and deal with your phone, cards, and documents only after you are out of immediate danger.
 
-- 确认是否保留护照电子副本
-- 联系使领馆
-- 请酒店或主办方协助处理本地沟通
+#### What to do / 具体怎么做
+
+- 立刻配合，动作慢一点，不要突然伸手、转身或掏东西  
+  Comply immediately and move slowly; do not make sudden movements, turn abruptly, or reach for things without warning.
+
+- 如果对方要包、手机、项链、手表，直接给，不要拉扯  
+  If they want your bag, phone, necklace, or watch, give it up immediately and do not pull back.
+
+- 先观察对方有没有离开，不要刚结束就原地掏另一部手机或开始追  
+  First make sure they are actually gone; do not immediately pull out a second phone or try to chase them.
+
+- 尽快进入最近的安全室内地点：酒店、商场、咖啡馆、药店、会场、门岗  
+  Move as quickly as you can to the nearest safe indoor place: hotel, mall, café, pharmacy, venue, or staffed entrance.
+
+#### Do not / 不要这样做
+
+- 不要反抗  
+  Do not resist.
+
+- 不要追  
+  Do not chase.
+
+- 不要大喊着站在原地和对方对峙  
+  Do not stay there shouting or confronting them.
+
+- 不要在他们还可能看得到你的地方立刻拿出备用手机、备用现金或其他贵重物品  
+  Do not pull out a backup phone, backup cash, or other valuables while they may still be able to see you.
+
+#### If jewelry or wearables are targeted / 如果被盯上的是首饰或可穿戴设备
+
+- 项链、耳环、手表、耳机这类东西都不要硬拽着不放  
+  Do not hold on to necklaces, earrings, watches, or earbuds.
+
+- 如果是挂在脖子、手腕、耳朵上的东西，更不要和对方拉扯，容易造成额外受伤  
+  If the item is on your neck, wrist, or ears, do not struggle over it, because that can cause additional injury.
+
+---
+
+### 4.2 First 10 Minutes / 事发后前 10 分钟
+
+#### Bottom line / 一句话结论
+
+事发后的前 10 分钟，不要急着“全部处理”。先做三件事：进室内、确认自己有没有受伤、判断丢了什么。  
+
+In the first 10 minutes after a robbery or theft, do not try to handle everything at once. Do three things first: get indoors, check whether you are hurt, and work out what is gone.
+
+#### What to do / 具体怎么做
+
+- 先进入安全、明亮、有人值守的室内地点  
+  Move first to a safe, well-lit indoor place with staff.
+
+- 先看自己有没有受伤，尤其是脖子、手腕、耳朵、摔倒擦伤、头部和胸口  
+  Check for injuries first, especially your neck, wrists, ears, any fall-related scrapes, and your head or chest.
+
+- 先确认丢失的是哪一类东西：手机、包、银行卡、现金、护照、房卡、电脑  
+  Confirm what category of items is gone: phone, bag, bank cards, cash, passport, room key, laptop.
+
+- 先联系一个真人：酒店前台、会场工作人员、朋友、同行人  
+  Contact one real person first: hotel front desk, venue staff, a friend, or a travel companion.
+
+#### Priority order / 处理顺序
+
+1. 人身安全  
+   Personal safety
+
+2. 手机和邮箱  
+   Phone and email
+
+3. 银行卡和支付  
+   Bank cards and payments
+
+4. 护照和证件  
+   Passport and documents
+
+5. 住宿、回程、当天剩余安排  
+   Lodging, return trip, and the rest of the day
+
+#### Do not / 不要这样做
+
+- 不要一边哭一边在路边自己处理全部事情  
+  Do not try to handle everything alone while standing on the street.
+
+- 不要先纠结“要不要报警”而忘了先锁手机和冻结银行卡  
+  Do not get stuck on whether to report to the police before locking your phone and freezing your cards.
+
+- 不要因为慌张就随便借陌生人的手机登录重要账号  
+  Do not log into important accounts on a stranger’s phone just because you are panicking.
+
+---
+
+### 4.3 If Your Phone Is Stolen / 如果手机被抢
+
+#### Bottom line / 一句话结论
+
+先锁机，再决定要不要抹掉。不要自己去追手机。
+
+Lock the phone first, then decide whether to erase it. Do not try to recover the phone yourself.
+
+#### If you use iPhone / 如果你用的是 iPhone
+
+- 用另一台设备打开 `iCloud.com/find`  
+  Open `iCloud.com/find` from another device.
+
+- 登录 Apple 账号；如果页面要求验证码，点底部 `Find Devices` 继续（**提前记住你的iPhone账号**）  
+  Sign in to your Apple Account; if the page asks for a verification code, choose `Find Devices` at the bottom and continue.
+
+- 在 `All Devices` 里选中被抢的 iPhone  
+  Select the stolen iPhone under `All Devices`.
+
+- 点击 `Mark as Lost`  
+  Click `Mark as Lost`.
+
+- 先保持 Lost Mode；只有在你基本确认拿不回来了时，再考虑 `Erase`  
+  Keep Lost Mode on first; only consider `Erase` once recovery is no longer realistic.
+
+- 即使抹掉，也不要把设备从 Find My 里移除  
+  Even if you erase it, do not remove the device from Find My.
+
+#### If you use Android / 如果你用的是 Android
+
+- 用另一台设备打开 `android.com/find`  
+  Open `android.com/find` from another device.
+
+- 登录你的 Google 账号  
+  Sign in to your Google Account.
+
+- 选中被抢的手机  
+  Select the stolen phone.
+
+- 先点 `Secure device` 或 `Mark as lost`  
+  Choose `Secure device` or `Mark as lost` first.
+
+- 如果你基本确认拿不回来了，再考虑 `Erase device`  
+  If recovery is no longer realistic, then consider `Erase device`.
+
+- 如果页面显示设备离线，锁定或抹掉会在它下次联网时执行  
+  If the device appears offline, the lock or erase action will run the next time it connects.
+
+#### What to do right after locking / 锁机后立刻做什么
+
+- 确认原手机号 / 原 SIM 是否需要尽快停用  
+  Decide whether your original number or SIM needs to be disabled immediately.
+
+- 确认你还有没有备用设备、备用联系方式、备用支付方式  
+  Confirm whether you still have a backup device, backup contact path, and backup payment method.
+
+- 再去处理最关键的恢复动作：酒店、打车、联系人、支付  
+  Then move on to the most important recovery steps: hotel access, ride-hailing, contacts, and payments.
+
+---
+
+### 4.4 If Your Cards Are Stolen / 如果信用卡被盗
+
+#### Bottom line / 一句话结论
+
+先把丢失的卡停掉，再保住今天和明天的支付能力。
+
+Disable the stolen cards first, then make sure you can still pay for today and tomorrow. 
+
+#### What to do first / 第一件事先做什么
+
+- 用另一台设备登录发卡行 app 或官网，先找这两个入口：`Lock / Freeze card` 或 `Report lost / stolen`  
+  Log into your bank or card issuer app or website from another device and look for either `Lock / Freeze card` or `Report lost / stolen`.
+
+- 如果没有 app、没有密码管理器、也登不上官网，就打发卡行客服电话挂失（可以提前查询，记录在纸上随身携带）  
+  If you do not have app access, password access, or website access, call the card issuer and report the card stolen.
+
+#### If the card was in Apple Pay or Google Wallet / 如果这张卡绑在手机钱包里
+
+- 如果主手机也被抢了，先把手机锁住；手机锁住后，手机钱包里的卡通常也会被暂停或失效  
+  If your main phone was also stolen, lock the phone first; once the phone is locked, cards in the phone wallet are usually suspended or no longer usable.
+
+- 但实体卡仍然要单独挂失，不要以为“锁了手机就等于卡也处理完了”  
+  But the physical card still needs to be reported separately; locking the phone does not finish the card problem.
+
+#### After the card is stopped / 卡停掉之后做什么
+
+- 立刻看最近交易，找有没有你不认识的消费  
+  Check recent transactions immediately for charges you do not recognize.
+
+- 如果已经有可疑消费，立刻点 dispute / fraud report  
+  If suspicious charges are already there, submit a dispute or fraud report immediately.
+
+- 确认你今天和明天还能怎么付钱：备用卡、现金、同行人、酒店协助  
+  Confirm how you can still pay for today and tomorrow: backup card, cash, travel companion, or hotel assistance.
+
+#### Do not / 不要这样做
+
+- 不要只停一张卡；同一个钱包里的其他卡也要一起检查  
+  Do not stop only one card; check every other card that was in the same wallet.
+
+- 不要觉得“信用卡被盗刷以后再争议就行”，所以先不处理  
+  Do not assume you can just dispute fraud later and therefore delay action.
+
+- 不要在还没恢复基本支付能力之前继续行程  
+  Do not continue your schedule as if nothing happened before restoring basic payment access.
+
+---
+
+### 4.5 If Your Passport Is Stolen / 如果护照被盗
+
+#### Bottom line / 一句话结论
+
+先找护照副本，再立刻联系使领馆；如果美国签证页也一起丢了，不要默认还能按原计划入境美国。  
+
+Find your passport copy first, then contact the Chinese Consulate-General in Rio immediately; if your U.S. visa was in the stolen passport, do not assume you can still enter the United States as planned.
+
+#### What to do / 具体怎么做
+
+- 先找护照副本和护照信息
+  Find your passport copy and passport details first.
+
+- 立刻联系使领馆，优先问“应急旅行证”是否适合你。
+  Contact the Chinese Consulate-General in Rio immediately and ask first whether an emergency travel document is the right option for you.
+
+- 不要默认先补普通护照；普通护照补发通常需15个工作日以上。
+  Do not assume a normal passport replacement is the first step; passport replacement usually takes weeks, not days.
+
+- 如果美国签证页也跟着护照一起丢了，默认需要在美国境外重新申请美国签证  
+  If your U.S. visa was in the stolen passport, assume you will need to apply for a new U.S. visa outside the United States.
+
+#### China Rio consulate / 中国驻里约总领馆
+
+- 地址：RUA MUNIZ BARRETO, 715, BOTAFOGO, RIO DE JANEIRO
+- 证件对外时间通常为工作日 09:00–12:00
+- 24小时领保热线：+55-21-987625124
+- 外交部全球领保热线：+86-10-12308
+
+---
+
+### 4.6 Police Report / 要不要报警
+
+#### Bottom line / 一句话结论
+
+报警的主要价值通常不是高概率找回手机或财物，而是拿到正式书面记录，给护照、签证、保险和后续解释用。正在发生的危险打 `190`；已经安全回到酒店或会场后，通常更适合去警局现场报，或走里约州线上报案。
+
+The main value of filing a police report is usually not a high chance of recovering your phone or belongings, but getting an official written record for passports, visas, insurance, and later explanations. Call `190` if the danger is ongoing; once you are safe back at a hotel or venue, it is usually more practical to report in person at a police station or use Rio state’s online reporting system.
+
+#### What a police report is good for / 报警有什么用
+
+- 作为正式书面记录，证明抢劫或盗窃发生在巴西  
+  It creates an official written record showing that the robbery or theft happened in Brazil.
+
+- 护照补办、签证补办、保险理赔时，经常会用到  
+  It is often needed later for passport replacement, visa replacement, or insurance claims.
+
+- 如果后面要解释为什么行程中断、证件丢失、手机被抢，这份记录更有用  
+  It is also useful if you later need to explain interrupted travel, lost documents, or a stolen phone.
+
+#### When you should report it / 什么情况下应该报警
+
+- 护照被盗  
+  Your passport was stolen.
+
+- 带签证的护照被盗  
+  Your passport with a visa was stolen.
+
+- 你后面要补签证、补办旅行证件或走保险  
+  You will need a visa replacement, travel document replacement, or an insurance claim.
+
+- 你受伤了、被持械威胁，或案件本身比较严重
+  You were injured, threatened with a weapon, or the incident was serious.
+
+#### When you may choose to skip it / 什么情况下可以放弃报警
+
+- 丢的是普通财物，金额不大  
+  The loss was limited to ordinary property and the value is not large.
+
+- 你不需要保险理赔  
+  You do not need an insurance claim.
+
+- 没有护照、签证、身份证件问题  
+  No passport, visa, or identity documents were involved.
+
+- 你已经稳住手机、支付、住宿和回程，不想再为一份报案回执投入额外时间  
+  You have already stabilized your phone, payments, lodging, and return plan, and do not want to spend extra time getting a report receipt.
+
+#### How to report / 怎么报警
+
+- 如果抢劫还在发生、你需要警察到场、你受伤了，打 `190`  
+  If the robbery is still unfolding, you need police on the scene, or you are injured, call `190`.
+
+- 如果你已经安全回到酒店或会场，通常更适合去警局现场报  
+  If you are already safe back at your hotel or venue, it is usually more practical to report it in person at a police station.
+
+- 在里约州，很多案件也可以走线上报案；记住关键词：`Delegacia Online`  
+  In Rio state, many cases can also be reported online; remember the keyword: `Delegacia Online`.
+
+- 如果你只是需要正式回执，而不是等警察来现场处理，线上报案通常更省时间  
+  If what you mainly need is an official report receipt rather than police on the scene, online reporting is often the faster option.
+
+#### What to expect / 应该有什么预期
+
+- 不要把报警理解成高概率找回手机或财物  
+  Do not treat a police report as a high-probability recovery tool for your phone or belongings.
+
+- 更现实的预期是：拿到正式记录，方便你后面补护照、补签证、走保险、解释行程变化  
+  The more realistic expectation is getting an official record that helps with passport replacement, visa replacement, insurance, and explaining travel disruptions later.
+
+- 如果你有设备定位信息，也不要自己去追或自己去取  
+  Even if you have device location information, do not try to chase or recover it yourself.
+
+
