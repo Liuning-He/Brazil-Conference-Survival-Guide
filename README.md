@@ -38,8 +38,7 @@ A practical bilingual guide to staying safe and prepared at conferences in Brazi
 
 - `full-guide.md` — Full bilingual guide / 完整双语攻略
 - `emergency-card.md` — Emergency recovery cheat sheet / 紧急自救卡片
-- `checklist.md` — Before-you-go checklist / 出发前核对清单
-
+  
 ## Why this repo / 为什么写这个仓库
 
 Conference travel to Brazil can be exciting, but also stressful if you arrive unprepared. This repo is meant to be a calm, practical, and shareable resource for attendees.
