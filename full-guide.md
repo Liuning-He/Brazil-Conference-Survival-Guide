@@ -56,6 +56,14 @@
 
 ## 1. Before You Go / 出发前
 
+  - [1.1 Cards / 银行卡](#11-cards--银行卡)
+  - [1.2 Cash / 现金](#12-cash--现金)
+  - [1.3 Connectivity, Phone & Accounts / 网络、手机与关键账号](#13-connectivity-phone--accounts--网络手机与关键账号)
+  - [1.4 Documents & Backup / 证件与备份](#14-documents--backup--证件与备份)
+  - [1.5 Transport Plan / 交通方案](#15-transport-plan--交通方案)
+  - [1.6 Packing & Carry Strategy / 随身携带策略](#16-packing--carry-strategy--随身携带策略)
+  - [1.7 Health, Medication & Basics / 药品与基础准备](#17-health-medication--basics--药品与基础准备)
+
 ### 1.1 Cards / 银行卡
 
 #### Bottom line / 一句话结论
@@ -613,6 +621,10 @@ Do not treat your physical condition as a minor issue. Prepare your usual medica
 
 ## 2. Arrival / 落地后
 
+  - [2.1 First Hour After Landing / 落地后第一小时](#21-first-hour-after-landing--落地后第一小时)
+  - [2.2 Hotel Check-in & First Night / 入住与第一晚](#22-hotel-check-in--first-night--入住与第一晚)
+  - [2.3 First Conference Morning / 第一个参会早晨](#23-first-conference-morning--第一个参会早晨)
+
 ### 2.1 First Hour After Landing / 落地后第一小时
 
 #### Bottom line / 一句话结论
@@ -795,6 +807,13 @@ When you are out, the goal is to reduce visible exposure of your phone, jewelry,
 
 
 ## 4. Emergency Recovery After Theft or Robbery / 被盗抢后的紧急自救
+
+  - [4.1 If Robbed on the Spot / 当场遭遇抢劫时](#41-if-robbed-on-the-spot--当场遭遇抢劫时)
+  - [4.2 First 10 Minutes / 事发后前 10 分钟](#42-first-10-minutes--事发后前-10-分钟)
+  - [4.3 If Your Phone Is Stolen / 如果手机被抢](#43-if-your-phone-is-stolen--如果手机被抢)
+  - [4.4 If Your Cards Are Stolen / 如果信用卡被盗](#44-if-your-cards-are-stolen--如果信用卡被盗)
+  - [4.5 If Your Passport Is Stolen / 如果护照被盗](#45-if-your-passport-is-stolen--如果护照被盗)
+  - [4.6 Police Report / 要不要报警](#46-police-report--要不要报警)
 
 ### 4.1 If Robbed on the Spot / 当场遭遇抢劫时
 
