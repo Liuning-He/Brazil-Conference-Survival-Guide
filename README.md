@@ -4,6 +4,11 @@ A practical bilingual guide to staying safe and prepared at conferences in Brazi
 
 一份面向赴巴西参会者的双语实用指南，重点覆盖安全、支付、通信、交通，以及被盗抢后的紧急自救。
 
+## Start here / 从这里开始
+
+- [Full Guide / 完整攻略](./full-guide.md)
+- [Emergency Card / 紧急自救卡（PDF）](./Emergency%20Card%20紧急自救卡.pdf) **强烈建议直接打印并随身携带** 
+
 ## Who this is for / 适用对象
 
 - International attendees going to conferences in Brazil
