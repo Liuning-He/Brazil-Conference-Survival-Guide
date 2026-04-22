@@ -28,12 +28,12 @@
 
 ## Quick Navigation / 快速导航
 
-- [1. Before You Go / 出发前]( )
+- [1. Before You Go / 出发前](#1-before-you-go--出发前)
   - [1.1 Cards / 银行卡](#11-cards--银行卡)
   - [1.2 Cash / 现金](#12-cash--现金)
   - [1.3 Connectivity, Phone & Accounts / 网络、手机与关键账号](#13-connectivity-phone--accounts--网络手机与关键账号)
   - [1.4 Documents & Backup / 证件与备份](#14-documents--backup--证件与备份)
-  - [1.5 Transport Plan / 交通预设](#15-transport-plan--交通预设)
+  - [1.5 Transport Plan / 交通方案](#15-transport-plan--交通方案)
   - [1.6 Packing & Carry Strategy / 随身携带策略](#16-packing--carry-strategy--随身携带策略)
   - [1.7 Health, Medication & Basics / 药品与基础准备](#17-health-medication--basics--药品与基础准备)
 
@@ -43,13 +43,12 @@
   - [2.3 First Conference Morning / 第一个参会早晨](#23-first-conference-morning--第一个参会早晨)
 
 - [3. Daily Safety / 日常安全](#3-daily-safety--日常安全)
-  - [3.1 Street Habits / 街头行为习惯](#31-street-habits--街头行为习惯)
 
 - [4. Emergency Recovery After Theft or Robbery / 被盗抢后的紧急自救](#4-emergency-recovery-after-theft-or-robbery--被盗抢后的紧急自救)
   - [4.1 If Robbed on the Spot / 当场遭遇抢劫时](#41-if-robbed-on-the-spot--当场遭遇抢劫时)
   - [4.2 First 10 Minutes / 事发后前 10 分钟](#42-first-10-minutes--事发后前-10-分钟)
   - [4.3 If Your Phone Is Stolen / 如果手机被抢](#43-if-your-phone-is-stolen--如果手机被抢)
-  - [4.4 If Your Cards Are Stolen / 如果银行卡或信用卡被盗](#44-if-your-cards-are-stolen--如果银行卡或信用卡被盗)
+  - [4.4 If Your Cards Are Stolen / 如果信用卡被盗](#44-if-your-cards-are-stolen--如果信用卡被盗)
   - [4.5 If Your Passport Is Stolen / 如果护照被盗](#45-if-your-passport-is-stolen--如果护照被盗)
   - [4.6 Police Report / 要不要报警](#46-police-report--要不要报警)
 
