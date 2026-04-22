@@ -28,25 +28,25 @@ _把这一面直接给路人、警察、司机或酒店工作人员看。_
 **EN:** Please help me get to this hotel or call this number. I was robbed.  
 **ZH:** 请帮我回到这家酒店，或者帮我拨打这个电话。我被抢了。
 
+**PT:** Se possível, por favor, me ajude a chamar um Uber para este endereço.  
+**EN:** If possible, please help me call an Uber to this address.   
+**ZH:** 如果方便的话，请帮我叫一辆 Uber 到这个地址。  
+
 - **Hotel Name / 酒店名称:** ________________________
 - **Address / 酒店地址:** ___________________________
 - **Phone / 酒店电话:** _____________________________
 
-**PT:** Se possível, por favor, me ajude a chamar um Uber para este endereço.
-**EN:** If possible, please help me call an Uber to this address. 
-**ZH:** 如果方便的话，请帮我叫一辆 Uber 到这个地址。
-
-### 3. Safe Route / 乘车安全指令
-
-**PT:** Por favor, vá pela via expressa com pedágio, sem atalhos.  
-**EN:** Please take the toll expressway and avoid shortcuts.  
-**ZH:** 请走收费快速路，不要抄近路。
-
-### 4. Venue / 会场信息
+### 3. Venue / 会场信息
 
 - **Venue / 会场名称:** ____________________________
 - **Address / 会场地址:** ___________________________
 - **Phone / 电话:** ________________________________
+
+### 4. Safe Route / 乘车安全指令
+
+**PT:** Por favor, vá pela via expressa com pedágio, sem atalhos.  
+**EN:** Please take the toll expressway and avoid shortcuts.  
+**ZH:** 请走收费快速路，不要抄近路。
 
 ---
 
